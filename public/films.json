@@ -1,0 +1,527 @@
+{
+    "status": 0,
+    "data": {
+        "films": [
+            {
+                "filmId": 5231,
+                "name": "除暴",
+                "poster": "https://pic.maizuo.com/usr/movie/070da81f4a5e8d603da1cd537376dcfd.jpg",
+                "actors": [
+                    {
+                        "name": "刘浩良",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8f12b89ed47641cb921f571e14cdcbab.jpg"
+                    },
+                    {
+                        "name": "王千源",
+                        "role": "钟诚",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5aa2c55809df51623c3d57ad59766645.jpg"
+                    },
+                    {
+                        "name": "吴彦祖",
+                        "role": "张隼",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8805a0ef427919a89eaa8dfecea53cf2.jpg"
+                    },
+                    {
+                        "name": "春夏",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/78a6f345f247583334c3ac7b9a9b3527.jpg"
+                    },
+                    {
+                        "name": "卫诗雅",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/00bbcf67b6eb92528c75442a56b7ef50.jpg"
+                    }
+                ],
+                "director": "刘浩良",
+                "category": "犯罪|剧情|动作",
+                "synopsis": "上世纪90年代，刑警钟诚受命追捕悍匪集团“老鹰帮”。这群悍匪犯下惊天连环劫案，训练有素且纪律严明，首领张隼更屡次恶意挑衅，矛头直指钟诚。为将“老鹰帮”捉拿归案，钟诚带领刑警小队咬死不放，誓与恶势力斗争到底。数年间，警匪上演了一次次紧张刺激的较量，悍匪愈加猖獗，警方步步逼近，双方展开殊死对决……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国香港,中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1605830400,
+                "timeType": 3,
+                "runtime": 95,
+                "grade": "7.9",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5241,
+                "name": "海兽之子",
+                "poster": "https://pic.maizuo.com/usr/movie/b41a1016400f00f2b1c2c3e6b4e40e71.jpg",
+                "actors": [
+                    {
+                        "name": "渡边步",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b9ef78c5531f1d8f9ff7c457e695646c.jpg"
+                    },
+                    {
+                        "name": "芦田爱菜",
+                        "role": "安海琉花",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7fdc9dda0cd442cedebd489a6e48ddaf.jpg"
+                    },
+                    {
+                        "name": "石桥阳彩",
+                        "role": "海",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b83700ec7e695233eea84f15818dcbfb.jpg"
+                    },
+                    {
+                        "name": "浦上晟周",
+                        "role": "空",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/476f07fb7bdb09d6ad08a8c76276afea.jpg"
+                    },
+                    {
+                        "name": "森崎温",
+                        "role": "安格勒 Angrad",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7f4238502d845f75cc088ae28cd2cbd8.jpg"
+                    }
+                ],
+                "director": "渡边步",
+                "category": "动画",
+                "synopsis": "偶遇到神秘少年“海”（石桥阳彩 配音）和“空”（浦上晟周 配音）的这个炎炎夏天，是琉花（芦田爱菜 配音）暑期的正式开始。天真无邪的“海”，看透一切的“空”，海洋馆里发光的鱼群，对琉花来说都像是一场浪漫的约定如期而至。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "日本",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1605830400,
+                "timeType": 3,
+                "runtime": 112,
+                "grade": "7.9",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5200,
+                "name": "金刚川",
+                "poster": "https://pic.maizuo.com/usr/movie/0b4e01c33b555e533cf8aca71b67df1a.jpg",
+                "actors": [
+                    {
+                        "name": "管虎",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/26a5747ddb041adbc871b2f8e7cd2bbe.jpg"
+                    },
+                    {
+                        "name": "郭帆",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f18bf8d95c2674c4817dbe88f57ccd7b.jpg"
+                    },
+                    {
+                        "name": "路阳",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3d31381be135c478b63ae8eccf683b43.jpg"
+                    },
+                    {
+                        "name": "田羽生",
+                        "role": "联合导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/54a4209cbd249f2454263f2f962c5f97.jpg"
+                    },
+                    {
+                        "name": "张译",
+                        "role": "张飞",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b062638368859e25d90cb6418ace9644.jpg"
+                    }
+                ],
+                "director": "管虎|郭帆|路阳|田羽生",
+                "category": "战争|剧情|历史",
+                "synopsis": "1953年，抗美援朝战争进入最终阶段，志愿军在金城发动最后一场大型战役。为在指定时间到达，向 金城前线投放更多战力，志愿军战士们在物资匮乏、武装悬殊的情况下，不断抵御敌机狂轰滥炸，以血肉 之躯一次次修补战火中的木桥。一段鲜为人知的历史，在暗流涌动的金刚川上徐徐展开......",
+                "filmType": {
+                    "name": "4D",
+                    "value": 13
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1603411200,
+                "timeType": 3,
+                "runtime": 122,
+                "grade": "7.9",
+                "item": {
+                    "name": "4D",
+                    "type": 13
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5235,
+                "name": "末日逃生",
+                "poster": "https://pic.maizuo.com/usr/movie/c64a6fd198b7f7a132120c0adbfe4656.jpg",
+                "actors": [
+                    {
+                        "name": "里克·罗曼·沃夫",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/fe78b2dc1833142fe6de0c1fecce0ac6.jpg"
+                    },
+                    {
+                        "name": "莫蕾娜·巴卡林",
+                        "role": "Allison Garrity",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7d8e9df01bd3482533042f117382808f.jpg"
+                    },
+                    {
+                        "name": "杰拉德·巴特勒",
+                        "role": "Jeff",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c900c8cdff7d41f30aeab88534541772.jpg"
+                    },
+                    {
+                        "name": "斯科特·格伦",
+                        "role": "Dale",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/56d228e638202d1d5fc6ac18a963c531.jpg"
+                    },
+                    {
+                        "name": "大卫·丹曼",
+                        "role": "Ralph",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7b274506acda46684a3a759549042ea4.jpg"
+                    }
+                ],
+                "director": "里克·罗曼·沃夫",
+                "category": "灾难|动作|剧情",
+                "synopsis": "两颗彗星正在朝地球运动，人类即将在 24 小时内面临毁灭性撞击，然而政府封锁了内部消息，在格陵兰建造了堡垒，只允许部分人类进入。建筑工程师 John 获得了进入堡垒的机会，带着一家三口踏上了去往格陵兰的末日逃生路。然而，在逃亡的过程中，军队得知自己已经被政府抛弃，开始失去控制，劫持了去往格陵兰的飞机，John 的妻子与儿子也因此失散。John 只能去约定好的地方等待妻子与儿子，期望会合后一并开车前往目的地格陵兰。这一路惊心动魄，历经重重困难，他们一家人最终是否可以会合，安全抵达格陵兰……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "英国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1605830400,
+                "timeType": 3,
+                "runtime": 119,
+                "grade": "7.9",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5222,
+                "name": "汪汪队立大功之超能救援",
+                "poster": "https://pic.maizuo.com/usr/movie/7d0d896dbc7d3e40dd548405d50073f0.jpg",
+                "actors": [
+                    {
+                        "name": "安德鲁 斯特里梅迪斯",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/273cfc9653117a84adf54394f96a333c.jpg"
+                    },
+                    {
+                        "name": "杨鸥",
+                        "role": "莱德/古威市长",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/db878d7c1d88d70f792638b6a5dcc299.jpg"
+                    },
+                    {
+                        "name": "韩娇娇",
+                        "role": "阿奇",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/892244b86685f614b74f6cfb2924922a.jpg"
+                    },
+                    {
+                        "name": "李敏妍",
+                        "role": "路马/珠珠",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/466452ae71ea7852a04df5da9f6bc187.jpg"
+                    },
+                    {
+                        "name": "王晓彤",
+                        "role": "天天",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7b734a38992f41da24fabdd122c5f600.jpg"
+                    }
+                ],
+                "director": "查尔斯·E·巴斯蒂安",
+                "category": "动画|儿童|冒险",
+                "synopsis": "神秘陨石坠落冒险湾，赋予了汪汪队强大的超能力！然而陨石的坠落竟是汉丁那市长的粗心实验引来的。汉丁那市长对自己的失败并不满意，于是和他的侄子设计困住了汪汪队的队长莱德，并偷走了陨石，企图控制整个城市。他们的野心却出现了差错，小狗们必须齐心协力，灵活运用新技能——毛毛的威力热力，小砾的超级力量，天天的乘风翼——超能全开，拯救世界！",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国,加拿大",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1605225600,
+                "timeType": 3,
+                "runtime": 89,
+                "grade": "7.9",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5252,
+                "name": "疯狂原始人2",
+                "poster": "https://pic.maizuo.com/usr/movie/0033bbc9ee55f9c6a146054c3063b12c.jpg",
+                "actors": [
+                    {
+                        "name": "克里斯·桑德斯",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ee87069d5434006a900d7ace70a2a2e0.jpg"
+                    },
+                    {
+                        "name": "柯克·德·米科",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/de832d61f5593aa5369ccf397ed4f202.jpg"
+                    },
+                    {
+                        "name": "凯特·戴琳斯",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/065f5d4fd21354d6b7af6c4b38883d08.jpg"
+                    },
+                    {
+                        "name": "克萝丽丝·利奇曼",
+                        "role": "格兰奶奶",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/386578db0259137f60aa242129299e2a.jpg"
+                    },
+                    {
+                        "name": "艾玛·斯通",
+                        "role": "小伊 Eep",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e7f72697ab8e0416e9caabd802be1ab3.jpg"
+                    }
+                ],
+                "director": "克里斯·桑德斯|柯克·德·米科|乔尔·克劳福德",
+                "category": "喜剧|动画|冒险",
+                "synopsis": "《疯狂原始人》票房大捷后即确认将制作续集。日前，导演克里斯·桑德斯、科克·德米科在影片的家庭录像发布会上确认，原班配音人马，包括尼古拉斯·凯奇、艾玛·斯通、莱恩·雷诺斯等将在续集中回归。",
+                "filmType": {
+                    "name": "3D",
+                    "value": 2
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1606435200,
+                "timeType": 3,
+                "runtime": 90,
+                "item": {
+                    "name": "3D",
+                    "type": 2
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5211,
+                "name": "地狱男爵：血皇后崛起",
+                "poster": "https://pic.maizuo.com/usr/movie/dad6e5846fe7ab982351a31fb10340b0.jpg",
+                "actors": [
+                    {
+                        "name": "尼尔·马歇尔",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/dfed6c12ca1981db998b2b1c8156caf8.jpg"
+                    },
+                    {
+                        "name": "大卫·哈伯",
+                        "role": "地狱男爵 Hellboy",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4ac60a7f379e4156891779356cfea47d.jpg"
+                    },
+                    {
+                        "name": "米拉·乔沃维奇",
+                        "role": "血皇后 Nimue the Blood Queen",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/74eae6d06c0b8e38aade9cf4bd529bbe.jpg"
+                    },
+                    {
+                        "name": "伊恩·麦柯肖恩",
+                        "role": "布鲁姆教授 Professor Bruttenholm",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1e6f29870e20ae87d60d47582374e659.jpg"
+                    },
+                    {
+                        "name": "金大贤",
+                        "role": "Ben Daimio",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/acfafcfca0e3216a53d72ca7ce18000a.jpg"
+                    }
+                ],
+                "director": "尼尔·马歇尔",
+                "category": "动作|奇幻|冒险",
+                "synopsis": "地狱男爵在二战期间被纳粹当做最后的武器召唤至人间，但布鲁姆教授却从纳粹手中夺下了这个刚出生的“恶魔之子”，并将其养育成人。长大后的地狱男爵在养父的影响下加入超自然调查防御局（B.P.R.D），成为专门处理各种超自然事件，守护人类社会的超级英雄。在一次处理超自然力量犯罪的过程中，镇压千年的邪恶女巫“血皇后”冲破封印再度复活，召唤出的地狱巨怪冲出地表占领伦敦，席卷全球。地狱男爵在通灵少女爱丽丝、上校本·戴米奥的帮助下，开启了阻止血皇后毁灭人类世界的最后一战。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1604880000,
+                "timeType": 3,
+                "runtime": 114,
+                "grade": "7.9",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5109,
+                "name": "我和我的家乡",
+                "poster": "https://pic.maizuo.com/usr/movie/fad9f1e9a5c38f3883d7f9b5e561e5fe.jpg",
+                "actors": [
+                    {
+                        "name": "闫非",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3d5b289c50f6404d45a0cf30f5352b80.jpg"
+                    },
+                    {
+                        "name": "彭安宇",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/50be0482dad81350a8f38164aad3c614.jpg"
+                    },
+                    {
+                        "name": "宁浩",
+                        "role": "总导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/fafc9e72ae5d2d660b8bb7420354a591.jpg"
+                    },
+                    {
+                        "name": "徐峥",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f2a4f5646931ac27743363df7bbcf12e.jpg"
+                    },
+                    {
+                        "name": "陈思诚",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/03615954f2225f75fa82e7db4cf5df5f.jpg"
+                    }
+                ],
+                "director": "宁浩|徐峥|陈思诚|闫非|彭安宇|邓超|俞白眉",
+                "category": "剧情|喜剧",
+                "synopsis": "电影《我和我的家乡》定档2020年国庆，延续《我和我的祖国》集体创作的方式，由张艺谋担当总监制，宁浩担任总导演，张一白担任总策划，宁浩、徐峥、陈思诚、闫非\u0026彭大魔、邓超\u0026俞白眉分别执导五个故事。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1601510400,
+                "timeType": 3,
+                "runtime": 0,
+                "grade": "7.3",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5214,
+                "name": "一秒钟",
+                "poster": "https://pic.maizuo.com/usr/movie/116ac5df56deb1b0e8688e6e2de71ba0.jpg",
+                "actors": [
+                    {
+                        "name": "张艺谋",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/59857ef5e898298dc244fbce26cce81a.jpg"
+                    },
+                    {
+                        "name": "张译",
+                        "role": "张九声",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0fedd2a18c25e91f63d2687b6f71a766.jpg"
+                    },
+                    {
+                        "name": "刘浩存",
+                        "role": "刘闺女",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1f55dfac4f4ce02f46074113a465c702.jpg"
+                    },
+                    {
+                        "name": "范伟",
+                        "role": "范电影",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/400f4d0549783065ffdbcc72ecd112fa.jpg"
+                    },
+                    {
+                        "name": "余皑磊",
+                        "role": "崔干事",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8b897b2e68666a629221d2ea3df48945.jpg"
+                    }
+                ],
+                "director": "张艺谋",
+                "category": "剧情",
+                "synopsis": "张艺谋导演作品《一秒钟》由演员张译、刘浩存、范伟主演。讲述了没赶上电影场次的张九声与刘闺女因一场电影结下了不解之缘的故事。故事灵感来源于张艺谋导演早期经历，是其一贯对文化展开追忆和寻根的风格。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1606435200,
+                "timeType": 3,
+                "runtime": 104,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5239,
+                "name": "气·球",
+                "poster": "https://pic.maizuo.com/usr/movie/e08e8f24dda67719117c85093737a22a.jpg",
+                "actors": [
+                    {
+                        "name": "万玛才旦",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c0354a11fe3913343de8a54716d0739b.jpg"
+                    },
+                    {
+                        "name": "索朗旺姆",
+                        "role": "卓嘎",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f23f6ef1ab6fcb7da069269fbbd0f6f6.jpg"
+                    },
+                    {
+                        "name": "金巴",
+                        "role": "达杰",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3e92f0fdc2edab29bfae43533f320750.jpg"
+                    },
+                    {
+                        "name": "杨秀措",
+                        "role": "Dorlma",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/151a8c7b6b76aecfcc72439fdaf93498.jpg"
+                    },
+                    {
+                        "name": "西德尼玛",
+                        "role": "出演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/155366ca864c24f7320b65b48c2a046b.jpg"
+                    }
+                ],
+                "director": "万玛才旦",
+                "category": "剧情",
+                "synopsis": "二十世纪九十年代，计划生育政策轰轰烈烈推行贯彻之时，再生就会被罚钱，而且家里养三个孩子已经十分吃力了。卓嘎去镇上的诊所和女医生要避孕套，但是避孕套被两个小儿子当气球吹着玩，被达杰看到对两个儿子一顿骂。可是两个小孩子并不懂父亲为什么责骂他们，一偷再偷，吹成气球和小伙伴互换了口哨。藏区人民多保守传统，哪里能见得小孩子公开玩避孕套。小伙伴的父亲上门来兴师问罪，和达杰大打出手。暑假到了，卓嘎出家的妹妹Dorlma去镇上学校接大侄子回家过夏天，却发现自己曾经的初恋情人在学校当藏语老师。老师对Dorlma念念不忘，把两人当年的恋曲写成小说出版。而且把小说送给Dorlma，希望可以澄清两人间的误会。卓嘎对当年破坏自己妹妹清誉的藏语老师恨之入骨，一听说这事儿就立刻要把小说烧了。Dorlma虽然出了家但是尘心未断，不顾危险从火堆里救回了小说。卓嘎苦劝无果，便在藏语老师找上门的时候谎称妹妹已经回到寺庙，把书硬还给了老师，让这对苦情人彻底断了联系。达杰带着大儿子出门还借种公羊时，父亲突然去世，悲痛欲绝。葬礼过后没多久，卓嘎怀孕了。迷信的达杰认为这个孩子是父亲转世，坚决不许妻子引产。可是现实坚硬，政策的贯彻、经济的压力、生育的痛苦、教育资源的匮乏等等，让卓嘎实在不想生第四个孩子了，原本恩爱的夫妻俩之间出现了不可调和的矛盾。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1605830400,
+                "timeType": 3,
+                "runtime": 102,
+                "grade": "7.9",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            }
+        ],
+        "total": 53
+    },
+    "msg": "ok"
+}
